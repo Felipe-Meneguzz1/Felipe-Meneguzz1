@@ -18,5 +18,7 @@ Outros conhecimentos: APIs REST, JWT, HTML/CSS, Bootstrap
 
 🌐 Links
 Portfólio: em processo
-linkedinl
+
+linkedin: www.linkedin.com/in/felipe-meneguzzi-81a02522a
+
 E-mail: lipemeneguzzi@gmail.com
