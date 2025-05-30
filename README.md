@@ -1,16 +1,22 @@
-## Hi there 👋
+💻 Sobre mim
+Sou estudante de Ciência da Computação e atuo profissionalmente na área de Infraestrutura de TI e Suporte Bancário. Tenho experiência prática com ambientes Windows Server, redes, gerenciamento de usuários e suporte técnico, além de me especializar cada vez mais no desenvolvimento back-end com Java.
 
-<!--
-**Felipe-Meneguzz1/Felipe-Meneguzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nos últimos anos, venho me aprofundando em Spring Boot, microserviços, Docker, MySQL, MongoDB e integrações via APIs REST. Também possuo conhecimento em testes unitários com JUnit e Mockito, versionamento com Git, e conteinerização de aplicações.
 
-Here are some ideas to get you started:
+Atualmente, estou focado em me tornar um desenvolvedor back-end completo, com sólida base em arquitetura de software e boas práticas de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias que utilizo
+Linguagens: Java, SQL, C#
+
+Frameworks: Spring Boot, JUnit, Mockito
+
+Banco de Dados: MySQL, MongoDB, SQL Server
+
+Ferramentas: Git, Docker, Postman/Insommia, Swagger
+
+Outros conhecimentos: APIs REST, JWT, HTML/CSS, Bootstrap
+
+🌐 Links
+Portfólio: em processo
+linkedinl
+E-mail: lipemeneguzzi@gmail.com
